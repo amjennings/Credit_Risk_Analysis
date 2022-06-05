@@ -43,4 +43,4 @@
 
 
 ## **Summary**
-###### TBD... Summary and recommendation of which model to use... Given the percentage of 5 star reviews are nearly equal for Vine and non-Vine members, there does not appear to be a positivity bias for paid reviews. An additional analysis of the average review rating across Vine and non-Vine members would be useful. Although the percentage of 5 star reviews may be roughly equal, there may be more 4, and even 3, star Vine reviews which could still indicate a positivity bias. Additionally, it would be useful to analyze reviews for other products aside from luggage.
+###### The Balanced Random Forest demonstrated the highest precision for both high and low risk. The Easy Ensemble Classifier demonstrated the highest recall for both high and low risk. This method also had the highest balanced accuracy score. If choosing between one of the methods above, the Balanced Random Forest would be recommended given high precision, second highest balanced accuracy, and the highest F1 score for high risk. However, this method also has low recall and other methods may be better.
