@@ -29,7 +29,7 @@
 
 <img width="638" alt="Screen Shot 2022-06-05 at 3 52 42 PM" src="https://user-images.githubusercontent.com/98051208/172068063-d9764830-ba11-4ca3-a638-8d45b7fe2ca3.png">
 
-- Random Forest
+- Balanced Random Forest
 
 <img width="307" alt="Screen Shot 2022-06-05 at 3 55 15 PM" src="https://user-images.githubusercontent.com/98051208/172068161-60c08230-499e-4aae-bcd2-165893d33b8f.png">
 
